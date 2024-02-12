@@ -7,7 +7,7 @@
     <ProjectGuid>{0089195B-1E51-4043-A0C4-C0B874D218EB}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ApplicationIcon>App.ico</ApplicationIcon>
+    <ApplicationIcon>sky.ico</ApplicationIcon>
     <AssemblyKeyContainerName>
     </AssemblyKeyContainerName>
     <AssemblyName>SkyRemote</AssemblyName>
