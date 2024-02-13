@@ -1,7 +1,7 @@
 <SkyRemote>
    <commands>
       <command name="Power" id="0"/>
-      <command name="Sky" id="127"/>
+      <command name="Sky" id="241"/>
       <command name="TV" id="127"/>
       <command name="0" id="48"/>
       <command name="1" id="49"/>
